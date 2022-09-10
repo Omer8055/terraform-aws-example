@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"aws_instance","Source":"./module1","Dir":"module1"},{"Key":"","Source":"","Dir":"."},{"Key":"autoscaling","Source":"../Terraform-Modules/autoscaling-module","Dir":"../Terraform-Modules/autoscaling-module"}]}
