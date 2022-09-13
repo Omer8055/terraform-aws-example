@@ -1,5 +1,0 @@
-variable "web_instance_type" {default = "t2.micro"}
-
-variable "ami_id" {default = "ami-0767046d1677be5a0"}
-
-variable "public_key" {default = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCy6cm9Spd0n6033k/9v/5+/X7uAEgfyQbOwbaWbJvQ3gZCcNurap8wKThRraisdg4CZguKoswi+TUCspAKSqeC8DBl2UeeWxEpbks3rEGfpMrMEfGsESCMn8KioxFquudycKvy6mQmHonMYOPZva1qTllf466aa97/4Dte4WQmomXyLoQVQSRal6uma2dYNopR6jRw9zVgV7Fl1ug/p7zOe4j46dG5F0ZvAxlDWlXtuk6nM7rCDWvZG16VJTVLfDwqftXJVjAA8vkek0y7mL6PduupCr/pUoQ8Q2xHwfC6vKUoxOt2clIMtV/MiB95OSrjmQvcRkxvbhkbAm89Xm3TjUWuFnw5tR3Cv/g8hj0UOo4LPZYuEh8LU26r+0zCkpIcFid+kSJ1tjxYGswfzVj6P+mUHqNnlOAHjU4ZyOQGe+U/Bea+dzfF1dv1yxM6Ndi1paBnqBU5oT0f/gIPthP4myxh2BEAprFxMcxgRqx1FCQfaxqEdalzwybmnFbf/JU= md omer@DESKTOP-C90BGMM"}
